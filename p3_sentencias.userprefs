@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sentencias.cs">
+    <Files>
+      <File FileName="Main.cs" Line="9" Column="1" />
+      <File FileName="Sentencias.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/jona/Documentos/proyectos/p3_sentencias/Main.cs" line="9" />
+      <Breakpoint file="/home/jona/Documentos/proyectos/p3_sentencias/Sentencias.cs" line="86" />
+      <Breakpoint file="/home/jona/Documentos/proyectos/p3_sentencias/Sentencias.cs" line="99" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
